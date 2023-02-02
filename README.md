@@ -13,7 +13,7 @@ this project is to refactor the HTML and CSS file to make the website better for
 *organise the css file
 *make apropiet changes to CSS file to correspond to the changes on the HTML file
 
-## Acceptance Criteria
+## changes made 
 
 *create a repository for challenge
 *download files
@@ -35,4 +35,33 @@ this project is to refactor the HTML and CSS file to make the website better for
 *push changes to repository
 *deploy website
 *submit work
+
+
+## what ive done 
+
+*made a new repository and cloned it to a loacal file on my computer
+
+*downloaded files and added them to repository
+
+*changed div elements to semantic elements
+
+*added alt description to img
+
+*made relevant changes to css file 
+
+*organised the css file to follow the html file top to bottom
+
+## instructions on how to view 
+
+*link to repository
+https://github.com/193G/module-1-challenge
+
+link to page 
+https://193g.github.io/module-1-challenge/
+
+## contact me on github  
+
+*contact info 
+https://github.com/193G
+
 
